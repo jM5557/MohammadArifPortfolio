@@ -8,8 +8,9 @@ I utilized prototyping tools to design and manufacture products for clients such
 ### A Glimpse of Equipment Used
 
 <img alt = "Zahn 1" src = "images/image12.jpg" />
+<img alt = "Zahn 1-2" src = "images/zahn-1.png" />
 <img alt = "Zahn 2" src = "images/image36.jpg" />
-
+<img alt = "Zahn 2-2" src = "images/zahn-2.png" />
 
 ### CNC of A Bottle Cap Opener
 
@@ -26,7 +27,7 @@ This project taught me the fundamentals and cautions of CNC and tooling operatio
 
 A client requested our team to produce an automatic mechanism that deploys and retracts a parachute for runners to train with a NDA restriction. I was tasked with making design alterations and drafts of the model on SolidWorks of the casings as well as adding mounts for electronics such as wiring for a motor and casings for batteries in the assembly.
 
-<div class = "center">
+<div class = "center with-bg">
     <img alt = "Zahn 7" src = "images/image30.png">
 </div>
 
@@ -39,8 +40,9 @@ The dome/head of the droid as well as the battery boxes would be assembled using
 
 Although the project had to be halted due to COVID-19, we had a lot of fun with it and gained exposure to manufacturing with plastics and 3D printed pieces.
 
-<div class = "center full">
+<div class = "center">
     <img alt = "Zahn 8" src = "images/image28.jpg" />
+    <img alt = "Zahn 8-2" src = "images/zahn-3.png" />
 </div>
 
 ### Mobile Whiteboard Education Suite
@@ -63,5 +65,8 @@ In order to implement the design intent of having the whiteboards be mobile, the
         <img alt = "Zahn" src = "images/image21.png" />
         <img alt = "Zahn" src = "images/image24.jpg" />
     </div>
-    <img alt = "Zahn" src = "images/image26.jpg" />
+    <div class = "center full">
+        <img alt = "Zahn" src = "images/image26.jpg" />
+        <img alt = "Zahn" src = "images/zahn-4.png" />
+    </div>
 </div>

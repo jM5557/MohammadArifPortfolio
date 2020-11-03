@@ -3,8 +3,8 @@
 ### BAJA SAE: CCNY Racing 
 #### Steering Team lead
 
-<div class = "center">
-<img src = "images/baja-sae-1.png" alt = "Baja SAE 1" />
+<div class = "center with-bg">
+    <img src = "images/baja-sae-1.png" alt = "Baja SAE 1" />
 </div>
 
 I had led a team in CCNY Racing, also known as the City College of New York Baja SAE team, where we designed and manufactured an all-wheel drive all-terrain vehicle and competed in an intercollegiate competition. As the former lead of the steering team and given that we were preparing to make an all-wheel drive all-terrain vehicle, there was a needed emphasis placed on collaborative teamwork, careful decision making, and a well-developed design assembly. We worked with many structural and linkage components that require extensive FEM and simulation studies in order to ensure structural integrity of the vehicle and first and foremost, driver safety.
@@ -26,7 +26,6 @@ Our team had participated in the 2020 HVAC System Selection Competition where we
 ![ASHRAE 3](images/ashrae-3.png)
 ![ASHRAE 4](images/ashrae-4.png)
 
-
 ### Desktop Injection Molder 
 
 Our group and I were interested in the injection molders used widely in the industry and therefore, drafted to design and manufacture a desktop injection molder as a project. We designed the molder in CAD as an assembly for an initial concept and drafting. We manufactured and machined the injection molder with the use of GD&T guidelines and troubleshooted problems concerning fittings/bearings. Examples of the final project and molds produced are shown below:
@@ -37,18 +36,23 @@ Our group and I were interested in the injection molders used widely in the indu
 ![Molder 4](images/molder-4.png)
 
 <div class = "center full">
-<img alt = "Molder 3" src = "images/molder-3.png" />
+    <img alt = "Molder 3" src = "images/molder-3.png" />
 </div>
-
 
 ### FEM Study on Eyeglass Design
 
 Our team was concerned with the breakage of a team member’s pair of glasses and decided to perform FEA on eyeglasses design and provide any design suggestions. The project involved making the solid model, pre-processing the model for FEA, sensitivity studies, and implications for design improvements. This project was a very cooperative and intensive experience and we learned much about design and FEA from our efforts. 
 
-![Glasses 1](images/glasses-1.png)
-![Glasses 2](images/glasses-2.png)
-![Glasses 3](images/glasses-3.png)
-![Glasses 4](images/glasses-4.png)
+<div class = "side-by-side">
+    <div class = "center full">
+        <img alt = "Glasses 1" src = "images/glasses-1.png" />
+        <img alt = "Glasses 2" src = "images/glasses-2.png" />
+    </div>
+    <div class = "center full">
+        <img alt = "Glasses 3" src = "images/glasses-3.png" />
+        <img alt = "Glasses 4" src = "images/glasses-4.png" />
+    </div>
+</div>
 
 ### FEM Analysis of a Steel Pulley-and-Shaft Design
 
@@ -65,4 +69,7 @@ The product that I modeled is a hair dryer. I used a ruler and tape measure to m
 
 ![Solid Model 1](images/solid-model-1.png)
 ![Solid Model 2](images/solid-model-2.png)
-![Solid Model 3](images/solid-model-3.png)
+
+<div class = "center with-bg">
+    <img alt = "Solid Model 3" src = "images/solid-model-3.png" />
+</div>

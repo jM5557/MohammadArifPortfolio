@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f23c4d2.chunk.css",
-    "main.js": "/static/js/main.d7840e29.chunk.js",
-    "main.js.map": "/static/js/main.d7840e29.chunk.js.map",
+    "main.css": "/static/css/main.959eb2dc.chunk.css",
+    "main.js": "/static/js/main.24480464.chunk.js",
+    "main.js.map": "/static/js/main.24480464.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.54c7b97a.js",
     "runtime-main.js.map": "/static/js/runtime-main.54c7b97a.js.map",
     "static/js/2.7701e1b2.chunk.js": "/static/js/2.7701e1b2.chunk.js",
@@ -10,23 +10,23 @@
     "static/js/3.cdc82cec.chunk.js": "/static/js/3.cdc82cec.chunk.js",
     "static/js/3.cdc82cec.chunk.js.map": "/static/js/3.cdc82cec.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5f23c4d2.chunk.css.map": "/static/css/main.5f23c4d2.chunk.css.map",
+    "static/css/main.959eb2dc.chunk.css.map": "/static/css/main.959eb2dc.chunk.css.map",
     "static/js/2.7701e1b2.chunk.js.LICENSE.txt": "/static/js/2.7701e1b2.chunk.js.LICENSE.txt",
     "static/media/arif-lockup.247e0745.svg": "/static/media/arif-lockup.247e0745.svg",
     "static/media/circle-decor.28174afb.svg": "/static/media/circle-decor.28174afb.svg",
-    "static/media/city-college.a612f2b6.md": "/static/media/city-college.a612f2b6.md",
+    "static/media/city-college.276ff460.md": "/static/media/city-college.276ff460.md",
     "static/media/diagram-decor.870817d5.svg": "/static/media/diagram-decor.870817d5.svg",
     "static/media/hamburger-icon.02af25c9.svg": "/static/media/hamburger-icon.02af25c9.svg",
     "static/media/kinetic.5ebf47ae.md": "/static/media/kinetic.5ebf47ae.md",
     "static/media/profile-image-zahn-center.e392d0a3.jpg": "/static/media/profile-image-zahn-center.e392d0a3.jpg",
     "static/media/squares-decor.39e75612.svg": "/static/media/squares-decor.39e75612.svg",
     "static/media/x-icon.0d95e6a4.svg": "/static/media/x-icon.0d95e6a4.svg",
-    "static/media/zahn.5a1d9fa8.md": "/static/media/zahn.5a1d9fa8.md"
+    "static/media/zahn.f39a1bee.md": "/static/media/zahn.f39a1bee.md"
   },
   "entrypoints": [
     "static/js/runtime-main.54c7b97a.js",
     "static/js/2.7701e1b2.chunk.js",
-    "static/css/main.5f23c4d2.chunk.css",
-    "static/js/main.d7840e29.chunk.js"
+    "static/css/main.959eb2dc.chunk.css",
+    "static/js/main.24480464.chunk.js"
   ]
 }
