@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MohammadArifPortfolio/static/css/main.ec4c711d.chunk.css",
-    "main.js": "/MohammadArifPortfolio/static/js/main.e8e25954.chunk.js",
-    "main.js.map": "/MohammadArifPortfolio/static/js/main.e8e25954.chunk.js.map",
+    "main.js": "/MohammadArifPortfolio/static/js/main.6a26e935.chunk.js",
+    "main.js.map": "/MohammadArifPortfolio/static/js/main.6a26e935.chunk.js.map",
     "runtime-main.js": "/MohammadArifPortfolio/static/js/runtime-main.f6751aae.js",
     "runtime-main.js.map": "/MohammadArifPortfolio/static/js/runtime-main.f6751aae.js.map",
     "static/js/2.b46c06d8.chunk.js": "/MohammadArifPortfolio/static/js/2.b46c06d8.chunk.js",
@@ -14,10 +14,10 @@
     "static/js/2.b46c06d8.chunk.js.LICENSE.txt": "/MohammadArifPortfolio/static/js/2.b46c06d8.chunk.js.LICENSE.txt",
     "static/media/arif-lockup.247e0745.svg": "/MohammadArifPortfolio/static/media/arif-lockup.247e0745.svg",
     "static/media/circle-decor.28174afb.svg": "/MohammadArifPortfolio/static/media/circle-decor.28174afb.svg",
-    "static/media/city-college.5424f522.md": "/MohammadArifPortfolio/static/media/city-college.5424f522.md",
+    "static/media/city-college.479c1767.md": "/MohammadArifPortfolio/static/media/city-college.479c1767.md",
     "static/media/diagram-decor.870817d5.svg": "/MohammadArifPortfolio/static/media/diagram-decor.870817d5.svg",
     "static/media/hamburger-icon.02af25c9.svg": "/MohammadArifPortfolio/static/media/hamburger-icon.02af25c9.svg",
-    "static/media/kinetic.4f01bb7c.md": "/MohammadArifPortfolio/static/media/kinetic.4f01bb7c.md",
+    "static/media/kinetic.aa032952.md": "/MohammadArifPortfolio/static/media/kinetic.aa032952.md",
     "static/media/profile-image-zahn-center.02e2edd8.jpg": "/MohammadArifPortfolio/static/media/profile-image-zahn-center.02e2edd8.jpg",
     "static/media/squares-decor.39e75612.svg": "/MohammadArifPortfolio/static/media/squares-decor.39e75612.svg",
     "static/media/x-icon.0d95e6a4.svg": "/MohammadArifPortfolio/static/media/x-icon.0d95e6a4.svg",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.f6751aae.js",
     "static/js/2.b46c06d8.chunk.js",
     "static/css/main.ec4c711d.chunk.css",
-    "static/js/main.e8e25954.chunk.js"
+    "static/js/main.6a26e935.chunk.js"
   ]
 }
