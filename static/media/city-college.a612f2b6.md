@@ -3,14 +3,16 @@
 ### BAJA SAE: CCNY Racing 
 #### Steering Team lead
 
-![Baja SAE](images/baja-sae-1.png)
+<div class = "center">
+<img src = "images/baja-sae-1.png" alt = "Baja SAE 1" />
+</div>
 
 I had led a team in CCNY Racing, also known as the City College of New York Baja SAE team, where we designed and manufactured an all-wheel drive all-terrain vehicle and competed in an intercollegiate competition. As the former lead of the steering team and given that we were preparing to make an all-wheel drive all-terrain vehicle, there was a needed emphasis placed on collaborative teamwork, careful decision making, and a well-developed design assembly. We worked with many structural and linkage components that require extensive FEM and simulation studies in order to ensure structural integrity of the vehicle and first and foremost, driver safety.
 
 ![Baja SAE 2](images/baja-sae-2.png)
 ![Baja SAE 3](images/baja-sae-3.png)
 ![Baja SAE 4](images/baja-sae-4.png)
-![Baja SAE 4](images/baja-sae-5.png)
+![Baja SAE 5](images/baja-sae-5.png)
 
 ### ASHRAE City College Chapter
 #### Vice President
@@ -29,11 +31,14 @@ Our team had participated in the 2020 HVAC System Selection Competition where we
 
 Our group and I were interested in the injection molders used widely in the industry and therefore, drafted to design and manufacture a desktop injection molder as a project. We designed the molder in CAD as an assembly for an initial concept and drafting. We manufactured and machined the injection molder with the use of GD&T guidelines and troubleshooted problems concerning fittings/bearings. Examples of the final project and molds produced are shown below:
 
+![Molder 5](images/molder-5.png)
 ![Molder 1](images/molder-1.png)
 ![Molder 2](images/molder-2.png)
-![Molder 3](images/molder-3.png)
 ![Molder 4](images/molder-4.png)
-![Molder 5](images/molder-5.png)
+
+<div class = "center full">
+<img alt = "Molder 3" src = "images/molder-3.png" />
+</div>
 
 
 ### FEM Study on Eyeglass Design
@@ -43,6 +48,7 @@ Our team was concerned with the breakage of a team member’s pair of glasses an
 ![Glasses 1](images/glasses-1.png)
 ![Glasses 2](images/glasses-2.png)
 ![Glasses 3](images/glasses-3.png)
+![Glasses 4](images/glasses-4.png)
 
 ### FEM Analysis of a Steel Pulley-and-Shaft Design
 
