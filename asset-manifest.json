@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec4c711d.chunk.css",
-    "main.js": "/static/js/main.799cb613.chunk.js",
-    "main.js.map": "/static/js/main.799cb613.chunk.js.map",
+    "main.css": "/static/css/main.da2fc2b8.chunk.css",
+    "main.js": "/static/js/main.d11948ff.chunk.js",
+    "main.js.map": "/static/js/main.d11948ff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a20ce9fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.a20ce9fc.js.map",
     "static/js/2.b46c06d8.chunk.js": "/static/js/2.b46c06d8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.7a0bfb5c.chunk.js": "/static/js/3.7a0bfb5c.chunk.js",
     "static/js/3.7a0bfb5c.chunk.js.map": "/static/js/3.7a0bfb5c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ec4c711d.chunk.css.map": "/static/css/main.ec4c711d.chunk.css.map",
+    "static/css/main.da2fc2b8.chunk.css.map": "/static/css/main.da2fc2b8.chunk.css.map",
     "static/js/2.b46c06d8.chunk.js.LICENSE.txt": "/static/js/2.b46c06d8.chunk.js.LICENSE.txt",
     "static/media/arif-lockup.247e0745.svg": "/static/media/arif-lockup.247e0745.svg",
     "static/media/circle-decor.28174afb.svg": "/static/media/circle-decor.28174afb.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.a20ce9fc.js",
     "static/js/2.b46c06d8.chunk.js",
-    "static/css/main.ec4c711d.chunk.css",
-    "static/js/main.799cb613.chunk.js"
+    "static/css/main.da2fc2b8.chunk.css",
+    "static/js/main.d11948ff.chunk.js"
   ]
 }
